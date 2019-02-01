@@ -15,7 +15,11 @@ label {
 .group {
     margin: 20px 0 20px 0;
 }
-
+.warning {
+  font-weight: bold;
+  color: #ff0000;
+  margin-top: 10px;
+}
 input[type=submit] {
     background: #336699;
     color: #fff;
